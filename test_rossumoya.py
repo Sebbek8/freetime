@@ -82,6 +82,7 @@ class TestAnimals:
         """
         pass
 
+
 class TestYearCycle:
 
     def test_order_actions(self):
@@ -98,9 +99,3 @@ class TestYearCycle:
         :return:
         """
         pass
-
-
-
-
-
-
